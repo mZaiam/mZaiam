@@ -1,3 +1,1 @@
-Hi, my name is Matheus, but you could also call me Zaia. I'm from Brazil, and I'm currently graduating in Science and Technology at ILUM School of Science, institution linked to CNPEM. 
-
-
+Hi, my name is Matheus, but you could also call me Zaia. I'm from Brazil, and I'm currently graduating in Science and Technology at ILUM School of Science, institution linked to CNPEM. I'm a math enthusiast, and I'm really interested in Data Science in general (Machine Learning, Deep Learning, ...), using Python to develop my projects. 

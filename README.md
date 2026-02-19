@@ -1,5 +1,5 @@
 # About Me:
-Hi, my name is Matheus, but you could also call me Zaia. I'm from Brazil, and I'm currently graduating in Science and Technology at ILUM School of Science, an institution linked to CNPEM. I'm a Math enthusiast, and I'm really interested in Data Science in general, i.e. Machine Learning and Deep Learning. I'm also interested in interdisciplinary problems, applying Machine Learning models to applied problems in Math, Biology and Physics.<br><br>
+Hi, my name is Matheus, but you could also call me Zaia. I'm from Brazil, and I'm a Bachelor in Science and Technology at ILUM School of Science, an institution linked to CNPEM. I'm currently a PhD student at ICMC-USP. I'm a Math enthusiast, and I'm really interested in Data Science in general, i.e. Machine Learning and Deep Learning. I'm also interested in interdisciplinary problems, applying Machine Learning models to applied problems in Math, Biology and Physics.<br><br>
 
 
 ## Socials:
